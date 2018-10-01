@@ -15,7 +15,7 @@ public class Initail {
       ip1.IPlayGame();
       IPlayGame ip2 = new Psp();
     ip2.IPlayGame();
-    
+       
     
     IPlayGame ip3 = new IPlayGame(){
     	public void IPlayGame() {
